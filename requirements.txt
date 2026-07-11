@@ -1,2 +1,1 @@
-requests
-slack_sdk
+# The bot uses only the Python standard library.
